@@ -93,7 +93,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="folder_kyrkoval2013_sydsamiska.pdf" xml:lang="sma"/>
 	<parallel_text location="folder_kyrkoval2013_nordsamiska.pdf" xml:lang="sme"/>
-	<parallel_text location="default.aspx_id=1022005.pdf" xml:lang="swe"/>
+	<parallel_text location="rostkortsfolder_2013.pdf" xml:lang="swe"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
