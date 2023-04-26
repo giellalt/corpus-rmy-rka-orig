@@ -176,10 +176,10 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
-    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
-<parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
-<parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
-<parallel_text location="umibe.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="tjomm-ta-schala.html"/>
+<parallel_text xml:lang="rmf" location="tumiba-ta-mangdoliba.html"/>
+<parallel_text xml:lang="rmy-rlo" location="vut-umidipe-thaj-hangel-seksualno-khelipe.html"/>
+<parallel_text xml:lang="rmn" location="umibe.html"/>
 </xsl:variable>
 
     <!--

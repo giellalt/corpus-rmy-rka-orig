@@ -176,10 +176,10 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="p-piller.html"/>
-    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
-<parallel_text location="p-piller.html" xml:lang="rmf"/>
-<parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
-<parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="p-tabus.html"/>
+<parallel_text xml:lang="rmf" location="p-piller.html"/>
+<parallel_text xml:lang="rmy-rlo" location="p-piller.html"/>
+<parallel_text xml:lang="rmn" location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html"/>
 </xsl:variable>
 
     <!--

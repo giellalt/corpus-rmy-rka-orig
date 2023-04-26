@@ -176,9 +176,9 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="patientlagen.html"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
-<parallel_text location="patientlagen.html" xml:lang="rmf"/>
-<parallel_text location="patientlagen.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmy-rlo" location="patientlagen.html"/>
+<parallel_text xml:lang="rmf" location="patientlagen.html"/>
+<parallel_text xml:lang="rmn" location="patientlagen.html"/>
 </xsl:variable>
 
     <!--

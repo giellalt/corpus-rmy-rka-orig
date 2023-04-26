@@ -176,10 +176,10 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="mobbning.html"/>
-    <parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/>
-<parallel_text location="holjiba.html" xml:lang="rmf"/>
-<parallel_text location="mobbing.html" xml:lang="rmy-rlo"/>
-<parallel_text location="mobibe.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="miak-attjer-manisch-mobbning.html"/>
+<parallel_text xml:lang="rmf" location="holjiba.html"/>
+<parallel_text xml:lang="rmy-rlo" location="mobbing.html"/>
+<parallel_text xml:lang="rmn" location="mobibe.html"/>
 </xsl:variable>
 
     <!--
